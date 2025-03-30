@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Dating_Application.Migrations
 {
     [DbContext(typeof(DataDbContext))]
-    [Migration("20250326173648_Initial")]
+    [Migration("20250329184923_Initial")]
     partial class Initial
     {
         /// <inheritdoc />

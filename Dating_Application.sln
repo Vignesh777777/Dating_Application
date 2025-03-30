@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dating_Application", "Dating_Application\Dating_Application.csproj", "{C9475C7B-5BAC-4997-AADE-F5A276484F8D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ClientApp", "ClientApp\ClientApp.esproj", "{24581855-81DC-CBC5-2066-6239B39AC343}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{C9475C7B-5BAC-4997-AADE-F5A276484F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9475C7B-5BAC-4997-AADE-F5A276484F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9475C7B-5BAC-4997-AADE-F5A276484F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24581855-81DC-CBC5-2066-6239B39AC343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24581855-81DC-CBC5-2066-6239B39AC343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24581855-81DC-CBC5-2066-6239B39AC343}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{24581855-81DC-CBC5-2066-6239B39AC343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24581855-81DC-CBC5-2066-6239B39AC343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24581855-81DC-CBC5-2066-6239B39AC343}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
